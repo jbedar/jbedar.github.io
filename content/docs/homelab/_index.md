@@ -1,18 +1,11 @@
-\---
+---
+title: "Introduction"
 
-title: "Documentation"
-
-bookFlatSection: false
+bookFlatSection: true
 
 weight: 1
+---
 
-\---
+# Jeremiah Bedar - Test
 
-
-
-\# Jeremiah Bedar - Technical Documentation
-
-
-
-Notes, configurations, and writeups from my home lab and professional experience.
-
+This website will function as a board for my notes, configurations, and writeups from my home lab and professional experience.

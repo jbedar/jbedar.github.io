@@ -1,4 +1,4 @@
-baseURL = 'https://jbedar.github.go'
+baseURL = 'https://jbedar.com'
 locale = 'en-us'
 title = 'Jeremiah Bedar'
 theme = 'hugo-book'
@@ -6,4 +6,15 @@ theme = 'hugo-book'
   [caches.images]
     dir = ':cacheDir/images'
 [params]
-  BookSection = "docs"
+  BookTheme = 'auto'
+  BookSection = 'docs'
+[minify]
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false
+      keepComments = false
+    [minify.tdewolff.css]
+      precision = 0
+    [minify.tdewolff.js]
+      precision = 0
