@@ -1,6 +1,6 @@
 baseURL = 'https://jbedar.github.go'
 locale = 'en-us'
-title = 'Jbedar'
+title = 'Jeremiah Bedar'
 theme = 'hugo-book'
 [caches]
   [caches.images]
