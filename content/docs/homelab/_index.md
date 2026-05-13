@@ -1,10 +1,10 @@
-\---
++++
 
 title: "Home Lab"
 
 weight: 1
 
-\---
++++
 
 
 
