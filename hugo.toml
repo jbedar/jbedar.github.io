@@ -5,3 +5,5 @@ theme = 'hugo-book'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[params]
+  BookSection = "docs"
