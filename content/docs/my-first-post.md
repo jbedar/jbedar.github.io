@@ -1,18 +1,16 @@
-\---
++++
+date = '2026-05-13T13:56:02-05:00'
+draft = true
+title = 'My First Post'
++++
 
-title: "Documentation"
-
-bookFlatSection: false
-
-weight: 1
-
-\---
+\## Introduction
 
 
 
-\# Jeremiah Bedar - Technical Documentation
+This is \*\*bold\*\* text, and this is \*emphasized\* text.
 
 
 
-Notes, configurations, and writeups from my home lab and professional experience.
+Visit the \[Hugo](https://gohugo.io) website!
 
