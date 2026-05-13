@@ -1,7 +1,7 @@
 baseURL = 'https://jbedar.github.go'
 locale = 'en-us'
 title = 'Jbedar'
-theme = 'ananke'
+theme = 'hugo-book'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
