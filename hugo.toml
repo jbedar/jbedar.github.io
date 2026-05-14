@@ -2,12 +2,24 @@ baseURL = 'https://jbedar.com'
 locale = 'en-us'
 title = 'Jeremiah Bedar'
 theme = 'hugo-book'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+
+enableRobotsTXT = true
+enableGitInfo = true
+
 [params]
   BookTheme = 'auto'
   BookSection = 'docs'
+  BookSearch = true
+  BookToC = true
+  BookRepo = 'https://github.com/jbedar/jbedar.github.io'
+  BookDateFormat = 'Jan 2, 2006'
+  BookDescription = 'Systems & Network Administration documentation, home lab notes, and technical writeups by Jeremiah Bedar.'
+  BookExperimentalFeatures = true
+  
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [minify]
   minifyOutput = true
   [minify.tdewolff]

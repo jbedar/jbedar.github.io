@@ -1,9 +1,11 @@
 ---
 title: "Introduction"
 
-bookFlatSection: true
+bookFlatSection: false
 
 weight: 1
+
+bookCollapseSection: true
 ---
 
 # Jeremiah Bedar - Test

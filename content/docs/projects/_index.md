@@ -3,7 +3,9 @@ title: "Projects"
 
 bookFlatSection: false
 
-weight: 3
+weight: 2
+
+bookCollapseSection: true
 ---
 
 # Jeremiah Bedar - Projects
