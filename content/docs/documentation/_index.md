@@ -1,11 +1,8 @@
 ---
-
 title: "Documentation"
-
 bookFlatSection: false
-
 weight: 2
-
+bookCollapseSection: true
 ---
 
 

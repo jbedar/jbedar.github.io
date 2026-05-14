@@ -5,6 +5,8 @@ bookFlatSection: false
 
 weight: 3
 
+bookCollapseSection: true
+
 ---
 
 # Jeremiah Bedar - Certifications
