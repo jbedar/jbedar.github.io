@@ -5,6 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://jbedar.com',
+  site: 'https://jbedar.github.io',
+  base: '/my-portfolio',
   integrations: [mdx(), sitemap(), tailwind()]
 });
